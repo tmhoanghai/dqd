@@ -1,0 +1,8 @@
+{
+  "name": "TheMaster",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+}
